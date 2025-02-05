@@ -1,6 +1,6 @@
 # 💫 About Me:
 Full-Stack Development (MERN)| Proficient in Data Structures & Algorithms (DSA) | System Design | Problem-Solving
-Currently working on MERN full-stack projects<br>Actively seeking job opportunity as SWE, SDE or full stack engineer roles.<br>Immediate Joiner.<br><br><br>
+<br>Actively seeking new opportunities as SWE, SDE or full stack engineer roles.<br>Immediate Joiner.<br><br><br>
 
 
 ## 🌐 Socials:
