@@ -1,4 +1,3 @@
-<!-- A friendly, welcoming header with a brief and powerful introduction -->
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Shreya
 
 I'm a passionate and creative Full-Stack Developer with a strong foundation in modern web technologies, Data Structures & Algorithms, and System Design. I thrive on solving complex problems and building applications that are both efficient and user-friendly.
@@ -43,7 +42,7 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iam-shreya-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-shreya-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=iam-shreya-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shreya-singh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
@@ -60,5 +59,5 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in m
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iam-shreya-singh&icon=3&color=6" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=iam-shreya-singh&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Visitor Count" />
 </p>
