@@ -29,7 +29,6 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in m
 
 ### 💻 Languages & Tools
 
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,cpp,aws,git,github,html,cssdocker&perline=7" />
@@ -42,7 +41,7 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iam-shreya-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=iam-shreya-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=iam-shreya-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shreya-singh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
