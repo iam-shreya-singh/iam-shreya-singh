@@ -41,7 +41,7 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iam-shreya-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=iam-shreya-singh&theme=tokyonight&hide_border=true&cache_bust=123" alt="GitHub Streak" />  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iam-shreya-singh&theme=tokyonight)](https://git.io/streak-stats)  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shreya-singh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
