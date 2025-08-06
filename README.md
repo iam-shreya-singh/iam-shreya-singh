@@ -1,22 +1,64 @@
-# 💫 About Me:
-Full-Stack Development (MERN)| Proficient in Data Structures & Algorithms (DSA) | System Design | Problem-Solving
-<br>Actively seeking new opportunities as SWE, SDE or full stack engineer roles.<br>Immediate Joiner.<br><br><br>
+<!-- A friendly, welcoming header with a brief and powerful introduction -->
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Shreya
 
+I'm a passionate and creative Full-Stack Developer with a strong foundation in modern web technologies, Data Structures & Algorithms, and System Design. I thrive on solving complex problems and building applications that are both efficient and user-friendly.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-singh24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shreyasinghin24) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iam-shreya-singh&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iam-shreya-singh&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shreya-singh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iam-shreya-singh&limit=5&theme=default&combine_all_yearly_contributions=true)
+- 🔭 **Core Strengths:** Full-Stack Development (MERN), DSA, System Design, and Problem-Solving.
+- 🚀 **Seeking:** Actively looking for new opportunities as a **Software Engineer (SWE/SDE)** or **Full-Stack Developer**.
+- ✅ **Availability:** Immediate Joiner.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iam-shreya-singh&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://shreya-singh-dev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/shreya-singh24" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@shreyasinghin24" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://leetcode.com/u/im_shreyasingh/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+### 💻 Languages & Tools
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,cpp,aws,git,github,html,cssdocker&perline=7" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-shreya-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-shreya-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shreya-singh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-contributor-stats.vercel.app/api?username=iam-shreya-singh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=iam-shreya-singh&icon=3&color=6" alt="Visitor Count"/>
+</p>
